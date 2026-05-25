@@ -1,36 +1,30 @@
-<!-- SECTION A: VISITOR COUNTER + ANIMATED HEADER -->
-
+<!-- VISITOR COUNTER -->
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TrishitaMacha&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=TrishitaMacha&label=Profile%20Views&color=blueviolet&style=for-the-badge)
-
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" alt="Wave" />
-&nbsp;
-**Hey there! Welcome to my GitHub**
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Data+Analyst+%7C+Turning+Raw+Data+into+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+LangChain)](https://git.io/typing-svg)
-
+<!-- ANIMATED HEADER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" />&nbsp;<b>Hey there, I'm Trishita!</b>
+  <br/><br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;Turning+Raw+Data+into+Business+Insights+%F0%9F%9A%80;ECE+Grad+%7C+AI+%2B+Analytics+Explorer+%F0%9F%A7%A0" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
 
-<!-- SECTION B: ABOUT ME -->
-
 ## 👩‍💻 About Me
 
-Hi! I'm **Trishita Macha** — a passionate **Data Analyst** who believes the best stories are told with data. I love transforming messy datasets into clean, actionable insights that actually make a difference. Fresh into the field, fueled by curiosity, and always learning something new. 🚀
+I'm **Trishita Macha**, a **Data Analyst** based in Hyderabad 🇮🇳 — an ECE grad (2025) who fell in love with data and never looked back. I bridge the gap between raw datasets and real decisions, building dashboards, running EDA, and shipping AI-powered tools that actually work.
 
-- 📊 I geek out over **EDA, KPI Design & Data Visualisation** — finding patterns others miss
-- 🤖 Exploring the intersection of **AI & Analytics** through LangChain, Generative AI APIs & Prompt Engineering
-- 🎨 I share knowledge through **YouTube, Medium & Instagram** — because good data insights deserve a good audience
-- ☕ My debugging process: coffee → stack overflow → coffee → eureka
-- 🌏 Based in India | Open to **collaborations, freelance & full-time opportunities**
+- 📊 Built projects on **customer behaviour, HR attrition, e-commerce sales & trader sentiment** — all with real datasets and real insights
+- 🤖 Shipped an **AI Study Chatbot** using LangChain + Gemini API + Streamlit, and a full **Career Guidance AI Agent** with ATS scoring
+- 🧪 Completed **TCS & Mastercard Forage simulations** — financial risk profiling + cybersecurity analysis
+- 🌐 Also learning **German** (A2) because why not add another language to the stack
+- 📬 Reach me at **machatrishita244@gmail.com** | Open to Data Analyst roles & collaborations
 
 ---
-
-<!-- SECTION C: TECH STACK -->
 
 ## 🛠️ Tech Stack
 
@@ -57,91 +51,94 @@ Hi! I'm **Trishita Macha** — a passionate **Data Analyst** who believes the be
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧠 AI & GenAI
+### 🤖 AI & GenAI
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6C3483?style=for-the-badge&logo=openai&logoColor=white)
 
-### 🔬 Data Skills
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-00897B?style=for-the-badge&logo=databricks&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-0288D1?style=for-the-badge&logo=databricks&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-7B1FA2?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Data Modelling](https://img.shields.io/badge/Data%20Modelling-C62828?style=for-the-badge&logo=databricks&logoColor=white)
-![KPI Design](https://img.shields.io/badge/KPI%20Design-F57F17?style=for-the-badge&logo=chartdotjs&logoColor=white)
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-<!-- SECTION D: SOCIAL MEDIA LINKS -->
+## 🚀 Featured Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| [📦 Customer Trends Dashboard](https://github.com/TrishitaMacha/Customer-Trends-Data-Analysis-Project) | PostgreSQL · Python · Power BI | 8 KPI cards, drill-through views; top 20% customers = 65% revenue |
+| [📉 HR Attrition Study](https://github.com/TrishitaMacha/EDA_Projects) | Python · SQL · Power BI · DAX | IBM HR dataset (1,470 records); surfaced top 4 attrition drivers |
+| [🤖 AI Study Chatbot](https://github.com/TrishitaMacha/Streamlit_projects_with_genai) | Streamlit · LangChain · Gemini API | Real-time Q&A, structured prompt templates, session tracking |
+| [🎯 Career Guidance AI Agent](https://github.com/TrishitaMacha/Career-Guidance-AI-Agent) | Python · Streamlit · Gemini API | Resume eval, ATS scoring, AI mentor, roadmap & college finder |
+| [🛒 E-commerce Sales EDA](https://github.com/TrishitaMacha/Ecommerce_Sales_EDA) | Python · Pandas · Seaborn | Superstore dataset (10k+ records); trends, regional & discount analysis |
+| [📈 Trader vs Market Sentiment](https://github.com/TrishitaMacha/Trader-Performance-vs-Market-Sentiment) | Python · Jupyter | Trader behaviour across Fear & Greed market conditions |
+
+---
 
 ## 🌐 Find Me Online
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Trishita%20Macha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trish-trishita)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TrishitaMacha)
-[![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@TrishitaMacha)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/TrishitaMacha)
+[![Email](https://img.shields.io/badge/Gmail-machatrishita244%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:machatrishita244@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-TrishitaMacha-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TrishitaMacha)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/TrishitaMacha/Portfolio)
 
 </div>
 
 ---
-
-<!-- SECTION E: GITHUB STATS -->
 
 ## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TrishitaMacha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=TrishitaMacha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TrishitaMacha&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TrishitaMacha&theme=tokyonight&hide_border=true" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrishitaMacha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrishitaMacha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" />
 
 </div>
 
 ---
-
-<!-- SECTION F: GITHUB TROPHIES -->
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TrishitaMacha&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TrishitaMacha&theme=darkhub&no-frame=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-<!-- SECTION G: CONTRIBUTION SNAKE / ACTIVITY -->
+## 🎓 Certifications
 
-## 🐍 My Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/TrishitaMacha/TrishitaMacha/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
+- 🟣 **GenAI Powered Data Analytics** — TCS Forage
+- 🔵 **Cybersecurity Job Simulation** — Mastercard Forage
+- 🟡 **Project Management Simulation** — Accenture Forage
+- 🟢 **Python Programming** — Infosys Springboard
+- 🔴 **ChatGPT Prompt Engineering for Developers** — DeepLearning.AI
 
 ---
-
-<!-- SECTION H: FOOTER / LET'S CONNECT -->
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-I'm always open to interesting conversations, collaborations, and new opportunities.  
-Whether you want to talk **data, AI, analytics** or just say hi — my DMs are open! 💬
+I'm actively looking for **Data Analyst** opportunities — remote, hybrid, or on-site in Hyderabad.  
+Got an interesting project, a job opening, or just want to talk data? Let's connect! 💬
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trish-trishita)
-[![Email](https://img.shields.io/badge/Drop%20Me%20an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trishitamacha@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trish-trishita)
+&nbsp;
+[![Email](https://img.shields.io/badge/Send%20an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:machatrishita244@gmail.com)
 
 <br/>
 
